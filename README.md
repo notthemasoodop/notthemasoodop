@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notthemasoodop
 - 👀 I’m interested in study bot devloper 
-- 🌱 I’m currently learning djs bots config
+- 🌱 I’m currently learning js bots config
 - 📫 How to reach me ... insta @ig_prince_masood
 
 <!---
